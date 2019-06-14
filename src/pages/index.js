@@ -1,3 +1,3 @@
 import React from "react"
 
-export default () => <div>OK so now we are working with VS</div>
+export default () => <h1>OK so now we are working with VS and connected to github, amazing!</h1>
